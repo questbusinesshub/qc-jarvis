@@ -1,0 +1,9 @@
+{
+  "name": "quest-jarvis",
+  "version": "1.0.0",
+  "description": "JARVIS — Quest Business Personal AI for Vinayak",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+  }
+}
